@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Complete Assignment",
+      "description": "Finish the RESTful API assignment for tasks management.",
+      "status": "In Progress",
+      "priority": "High",
+      "date": "2024-08-19T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Grocery Shopping",
+      "description": "Buy fruits, vegetables, and snacks.",
+      "status": "Pending",
+      "priority": "Medium",
+      "date": "2024-08-19T14:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Workout",
+      "description": "Go to the gym and complete a 1-hour workout session.",
+      "status": "Completed",
+      "priority": "Low",
+      "date": "2024-08-18T06:00:00Z"
+    }
+  ]
+  

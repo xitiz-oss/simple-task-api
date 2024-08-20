@@ -1,14 +1,22 @@
 {
   "name": "simple-task-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple RESTful API for managing tasks",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "simple-task-api"
+  },
+  "author": "Kshitiz Shrestha",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "uuid": "^8.3.2",
+    "express-validator": "^6.14.0"
   }
 }
